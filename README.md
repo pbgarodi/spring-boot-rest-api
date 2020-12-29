@@ -1,2 +1,2 @@
 # spring-boot-rest-api
-This is spring boot rest api project
+Simple demo of spring boot rest api
